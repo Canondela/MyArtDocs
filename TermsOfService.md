@@ -24,6 +24,8 @@
     - Interfere with or disrupt the bot, its servers, or its database.
     - Attempt to gain unauthorized access to any part of the bot.
     - Abuse the report system.
+    - Upload AI-generated content, or any media that were modified with AI.
+    - Upload content of other user's and claim that it's your creation.
 
 **4. Intellectual Property**
 
